@@ -19,3 +19,4 @@ To be Added Later
 -----------------
 * Haskell
 * Go
+* Elixir
